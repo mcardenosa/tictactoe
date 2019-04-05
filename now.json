@@ -1,3 +1,9 @@
 {
-  "alias": ["tictactoe.mcardenosa.now.sh"]
+  "routes": [
+  {
+    "src": "/tictactoe",
+    "dest": "/public/index.html"
+  }
+]
+
 }
